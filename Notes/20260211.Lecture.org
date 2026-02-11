@@ -1,0 +1,59 @@
+#+title: 20260211 Lecture
+
+* Next Class Assigments
+DEADLINE: <2026-02-16 Mon>
+Self Evaluations
+Chap 4 Quiz due at Noon
+Complete Introduction (All 5 elemtns, in-class analysis)
+
+* Lecture
+** Elements of Introduction
+1. Hook (Attention Grabbing)
+   Can be compossed in really any way, the objective of this part is to make the
+   audience intersted in you giving the presentation (Can be because of who
+   someone is or how they start).
+2. Thesis
+   The main point of concern of the speech
+3. Credibility
+   Is our speech a question that can be adressed from a logical stand point.
+4. Relevance
+5. Preview
+** Informative Speech Structure
+1. Introduction
+   - The credibility, thesis and relevance work together to explain if the topic
+     is worth discusing
+2. Body
+   - 3 Main Points
+3. Conclusion
+   - Signalling the Conclusion, Memorable Statement
+** Most Important Parts of the Speech
+In general the most important parts of the speech are the introduction and the
+conclusion on the essay.
+
+** Developing a Thesis Statement (Formula)
+This "formula" is not something that fits everything but can give a good
+framework to start to write a thesis.
+
+[Topic] can help [audience] [overarching benefit of focus] by [benefit 1,
+benefits 2, and benefit 3].
+*** Example 1.
+Doom scrolling can be manager through practical behavioral adjustment that
+provide student with anxiety regulation, improved productivity, and decreased
+metal fatigue.
+*** Example 2.
+(1) *Doom scrolling reduction strategies are* (2) *practical behavioral
+adjustment* that provide (3) *students* with anxieity regulation, improved
+productivity, and decreased
+mental fatigue.
+
+** General definition.
+[Topic] is a [descriptive calissification] that provides [audience] with
+[benefit 1, benefit 2, ... benfit "n"]
+
+*** Previous Definition
+If God is loving, how can He justify allowing suffering as part of His greater
+plan?
+
+*** New Definition
+Understanding the how God shows his love in the silence of difficulties, is a
+thought provoking questions that if answered provides the audience a different perspective on trials.
