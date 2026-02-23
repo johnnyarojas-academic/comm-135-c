@@ -45,6 +45,9 @@ metal fatigue.
 adjustment* that provide (3) *students* with anxieity regulation, improved
 productivity, and decreased
 mental fatigue.
+#+begin_internal
+This is a piece of internal text
+#+end_internal
 
 ** General definition.
 [Topic] is a [descriptive calissification] that provides [audience] with
@@ -56,4 +59,19 @@ plan?
 
 *** New Definition
 Understanding the how God shows his love in the silence of difficulties, is a
-thought provoking questions that if answered provides the audience a different perspective on trials.
+thought provoking questions that if answered provides the audience a different
+perspective on trials.
+\begin{align*}
+\sum_0^{n+2} %% YA FUNCIONA!!!! Gracias al Señor!
+\end{align*}
+* This is a heading for y docume
+\begin{align*}
+\int_0^2 {2x}
+\end{align*}
+ashdjsahdjhasjdhjsahdjhsa
+** SDASHDHJHDJS
+- a
+  a
+  a
+  a
+  a
