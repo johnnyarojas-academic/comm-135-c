@@ -1,0 +1,78 @@
+#+TITLE: Course Schedule: W26 Comm & Public Speaking (COMM-135-C)
+
+* TODO Course Introduction & Resources
+** TODO Initial Setup
+*** TODO Read Syllabus, including Biblical Foundation and Assignment Schedule
+*** TODO Access Textbook and review Start Here section
+*** TODO Obtain Grammarly Pro using Southern email
+*** TODO Download LibKey Nomad browser extension
+** TODO Professor Interaction
+*** TODO Note Office Hours: Mon & Wed 2:00 PM - 4:00 PM (Brock Hall 1015H)
+*** TODO Schedule Zoom/Teams appointments via email if needed
+
+* TODO Week 1: Jan 12-18 | Introduction Speech
+** TODO Reading & Notes
+*** TODO Ch. 1: The World of Communication
+*** TODO Ch. 2: Perception and Communication
+** TODO Assignments & Quizzes
+*** TODO Introduction Speech: Interview partner and build story
+*** TODO Introduction Speech: Use AI assistant to organize facts (1-2 min story)
+*** TODO Chapter 1 Quiz (Due: Monday, Jan 26, 2026)
+
+* TODO Week 2: Jan 19-25
+** TODO Reading & Notes
+*** TODO Ch. 2: Perception & Communication
+*** TODO Ch. 3: Communication and Personal Identity
+*** TODO Ch. 12: Planning Public Speaking
+** TODO Assignments & Quizzes
+*** TODO PRCA Pre-Test Reflection (Due: Wednesday, Jan 21, 2026)
+*** TODO Chapter 2 Quiz (Due: Monday, Jan 26, 2026)
+*** TODO Chapter 3 Quiz (Due: Monday, Jan 26, 2026)
+*** TODO Syllabus Quiz (Due: Monday, Jan 26, 2026)
+
+* TODO Week 3: Jan 26-Feb 1 | Narrative Speech Assignment
+** TODO Reading & Notes
+*** TODO Ch. 12: Planning Public Speaking
+*** TODO Ch. 14: Organizing & Presenting Speeches
+*** TODO Ch. 15: Informative Speaking
+** TODO Assignments & Quizzes
+*** TODO Narrative Speech Key-Word Outline (Due: Wednesday, Feb 4, 2026)
+*** TODO Chapter 12 Quiz (Due: Monday, Jan 26, 2026)
+*** TODO Chapter 14 Quiz (Due: Wednesday, Jan 28, 2026)
+
+* TODO Week 4: Feb 2-8 | NARRATIVE SPEECH
+** TODO Reading & Notes
+*** TODO Ch. 15: Informative Speaking
+** TODO Assignments & Quizzes
+*** TODO Deliver Narrative Speech (3:00-4:00 mins)
+*** TODO Self-Evaluation - Narrative Speech (Due: Monday, Feb 9, 2026)
+*** TODO Extra Credit: Ignite Live Reaction Paper (Due: Wednesday, Feb 11, 2026)
+
+* TODO Week 5: Feb 9-15 | Informative Speech Assignment
+** TODO Reading & Notes
+*** TODO Ch. 15: Informative Speaking
+*** TODO Ch. 13: Researching and Developing Support for Speeches
+*** TODO Ch. 4: Listening Effectively
+** TODO Assignments & Quizzes
+*** TODO Claim your Topic - Informative (Due: Wednesday, Feb 11, 2026)
+*** TODO Chapter 15 Quiz (Due: Monday, Feb 9, 2026)
+*** TODO Chapter 13 Quiz (Due: Wednesday, Feb 11, 2026)
+
+* TODO Week 6: Feb 16-22 | APA, Citations, Plagiarism
+** TODO Reading & Notes
+*** TODO Ch. 4: Listening Effectively
+*** TODO Citing Sources Orally Guidelines
+*** TODO Ch. 5: Verbal Dimension of Communication
+** TODO Assignments & Quizzes
+*** TODO Bring draft of Purpose, Thesis, and Intro to class (Monday)
+*** TODO Plagiarism Certification Test & PDF Submission (Due: Wednesday, Feb 18, 2026)
+*** TODO Chapter 5 Quiz (Due: Wednesday, Feb 18, 2026)
+*** TODO Chapter 4 Quiz (Due: Monday, Feb 23, 2026)
+*** TODO Oral Citations Quiz (Due: Monday, Feb 23, 2026)
+
+* TODO Weeks 7 & 8: Feb 23-Mar 8 | INFORMATIVE SPEECHES
+** TODO Assignments & Deliverables
+*** TODO Informative Speech Formal Outline (Submit to Turnitin Dropbox)
+*** TODO Informative Speech PowerPoint (Due: Wednesday, March 4, 2026)
+*** TODO Deliver Informative Speech (5:00-6:00 mins)
+*** TODO Self-Evaluation - Informative Speech (Due: Monday, March 9, 2026)
