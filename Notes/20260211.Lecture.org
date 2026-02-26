@@ -1,11 +1,5 @@
 #+title: 20260211 Lecture
 
-* Next Class Assigments
-DEADLINE: <2026-02-16 Mon>
-Self Evaluations
-Chap 4 Quiz due at Noon
-Complete Introduction (All 5 elemtns, in-class analysis)
-
 * Lecture
 ** Elements of Introduction
 1. Hook (Attention Grabbing)
