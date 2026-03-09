@@ -1,0 +1,305 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/nixos.org) (preloaded format=pdflatex 1980.1.1)  9 MAR 2026 11:56
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"Self Evaluation.tex"
+(./Self Evaluation.tex
+LaTeX2e <2025-06-01> patch level 1
+L3 programming layer <2025-06-09>
+
+(/nix/store/h03408lmim0far29q4dddmwvar4g6mgj-texlive-combined-full-2025.2025070
+3-texmfdist/tex/latex/base/article.cls
+Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
+
+(/nix/store/h03408lmim0far29q4dddmwvar4g6mgj-texlive-combined-full-2025.2025070
+3-texmfdist/tex/latex/base/size12.clo
+File: size12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count275
+\c@section=\count276
+\c@subsection=\count277
+\c@subsubsection=\count278
+\c@paragraph=\count279
+\c@subparagraph=\count280
+\c@figure=\count281
+\c@table=\count282
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen148
+)
+(/nix/store/h03408lmim0far29q4dddmwvar4g6mgj-texlive-combined-full-2025.2025070
+3-texmfdist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/nix/store/h03408lmim0far29q4dddmwvar4g6mgj-texlive-combined-full-2025.2025070
+3-texmfdist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(/nix/store/h03408lmim0far29q4dddmwvar4g6mgj-texlive-combined-full-2025.2025070
+3-texmfdist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/nix/store/h03408lmim0far29q4dddmwvar4g6mgj-texlive-combined-full-2025.2025070
+3-texmfdist/tex/generic/iftex/iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+))
+\Gm@cnth=\count283
+\Gm@cntv=\count284
+\c@Gm@tempcnt=\count285
+\Gm@bindingoffset=\dimen149
+\Gm@wd@mp=\dimen150
+\Gm@odd@mp=\dimen151
+\Gm@even@mp=\dimen152
+\Gm@layoutwidth=\dimen153
+\Gm@layoutheight=\dimen154
+\Gm@layouthoffset=\dimen155
+\Gm@layoutvoffset=\dimen156
+\Gm@dimlist=\toks18
+)
+(/nix/store/h03408lmim0far29q4dddmwvar4g6mgj-texlive-combined-full-2025.2025070
+3-texmfdist/tex/latex/newtx/newtxtext.sty
+Package: newtxtext 2024/04/01 v1.744(Michael Sharpe) latex and unicode latex su
+pport for TeXGyreTermesX
+
+`newtxtext' v1.744, 2024/04/01 Text macros taking advantage of TeXGyre Termes a
+nd its extensions (msharpe)
+(/nix/store/h03408lmim0far29q4dddmwvar4g6mgj-texlive-combined-full-2025.2025070
+3-texmfdist/tex/latex/xpatch/xpatch.sty
+(/nix/store/h03408lmim0far29q4dddmwvar4g6mgj-texlive-combined-full-2025.2025070
+3-texmfdist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2025-06-09 L3 programming layer (loader) 
+
+(/nix/store/h03408lmim0far29q4dddmwvar4g6mgj-texlive-combined-full-2025.2025070
+3-texmfdist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2025-06-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count286
+))
+Package: xpatch 2020/03/25 v0.3a Extending etoolbox patching commands
+
+(/nix/store/h03408lmim0far29q4dddmwvar4g6mgj-texlive-combined-full-2025.2025070
+3-texmfdist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2024-08-16 L3 Experimental document command parser
+)
+(/nix/store/h03408lmim0far29q4dddmwvar4g6mgj-texlive-combined-full-2025.2025070
+3-texmfdist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count287
+))
+(/nix/store/h03408lmim0far29q4dddmwvar4g6mgj-texlive-combined-full-2025.2025070
+3-texmfdist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+
+(/nix/store/h03408lmim0far29q4dddmwvar4g6mgj-texlive-combined-full-2025.2025070
+3-texmfdist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+
+(/nix/store/h03408lmim0far29q4dddmwvar4g6mgj-texlive-combined-full-2025.2025070
+3-texmfdist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+)
+(/nix/store/h03408lmim0far29q4dddmwvar4g6mgj-texlive-combined-full-2025.2025070
+3-texmfdist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+)
+(/nix/store/h03408lmim0far29q4dddmwvar4g6mgj-texlive-combined-full-2025.2025070
+3-texmfdist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(/nix/store/h03408lmim0far29q4dddmwvar4g6mgj-texlive-combined-full-2025.2025070
+3-texmfdist/tex/generic/xkeyval/xkeyval.tex
+(/nix/store/h03408lmim0far29q4dddmwvar4g6mgj-texlive-combined-full-2025.2025070
+3-texmfdist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks19
+\XKV@tempa@toks=\toks20
+)
+\XKV@depth=\count288
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/nix/store/h03408lmim0far29q4dddmwvar4g6mgj-texlive-combined-full-2025.2025070
+3-texmfdist/tex/latex/base/textcomp.sty
+Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
+)
+(/nix/store/h03408lmim0far29q4dddmwvar4g6mgj-texlive-combined-full-2025.2025070
+3-texmfdist/tex/generic/xstring/xstring.sty
+(/nix/store/h03408lmim0far29q4dddmwvar4g6mgj-texlive-combined-full-2025.2025070
+3-texmfdist/tex/generic/xstring/xstring.tex
+\xs_counta=\count289
+\xs_countb=\count290
+)
+Package: xstring 2023/08/22 v1.86 String manipulations (CT)
+)
+(/nix/store/h03408lmim0far29q4dddmwvar4g6mgj-texlive-combined-full-2025.2025070
+3-texmfdist/tex/latex/base/ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+)
+(/nix/store/h03408lmim0far29q4dddmwvar4g6mgj-texlive-combined-full-2025.2025070
+3-texmfdist/tex/latex/carlisle/scalefnt.sty)
+LaTeX Font Info:    Setting ntxLF sub-encoding to TS1/0 on input line 24.
+LaTeX Font Info:    Setting ntxTLF sub-encoding to TS1/0 on input line 24.
+LaTeX Font Info:    Setting ntxOsF sub-encoding to TS1/0 on input line 24.
+LaTeX Font Info:    Setting ntxTOsF sub-encoding to TS1/0 on input line 24.
+
+(/nix/store/h03408lmim0far29q4dddmwvar4g6mgj-texlive-combined-full-2025.2025070
+3-texmfdist/tex/generic/kastrup/binhex.tex)
+\ntx@tmpcnta=\count291
+\ntx@cnt=\count292
+
+(/nix/store/h03408lmim0far29q4dddmwvar4g6mgj-texlive-combined-full-2025.2025070
+3-texmfdist/tex/latex/fontaxes/fontaxes.sty
+Package: fontaxes 2025-05-24 v2.0.1 Font selection axes (deprecated)
+
+(/nix/store/h03408lmim0far29q4dddmwvar4g6mgj-texlive-combined-full-2025.2025070
+3-texmfdist/tex/latex/figureversions/figureversions.sty
+Package: figureversions 2025-04-29 v1.0.1 Figure versions
+))
+\tx@sixem=\dimen157
+\tx@y=\dimen158
+\tx@x=\dimen159
+\tx@tmpdima=\dimen160
+\tx@tmpdimb=\dimen161
+\tx@tmpdimc=\dimen162
+\tx@tmpdimd=\dimen163
+\tx@tmpdime=\dimen164
+\tx@tmpdimf=\dimen165
+\tx@dimA=\dimen166
+\tx@dimAA=\dimen167
+\tx@dimB=\dimen168
+\tx@dimBB=\dimen169
+\tx@dimC=\dimen170
+LaTeX Info: Redefining \oldstylenums on input line 902.
+)
+(/nix/store/h03408lmim0far29q4dddmwvar4g6mgj-texlive-combined-full-2025.2025070
+3-texmfdist/tex/latex/setspace/setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+)
+LaTeX Font Info:    Trying to load font information for OT1+ntxtlf on input lin
+e 17.
+
+(/nix/store/h03408lmim0far29q4dddmwvar4g6mgj-texlive-combined-full-2025.2025070
+3-texmfdist/tex/latex/newtx/ot1ntxtlf.fd
+File: ot1ntxtlf.fd 2021/05/24 v1.0 font definition file for OT1/ntx/tlf
+)
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 12.0pt on input line 17.
+ (./Self Evaluation.aux)
+\openout1 = `"Self Evaluation.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+(/nix/store/h03408lmim0far29q4dddmwvar4g6mgj-texlive-combined-full-2025.2025070
+3-texmfdist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count293
+\scratchdimen=\dimen171
+\scratchbox=\box53
+\nofMPsegments=\count294
+\nofMParguments=\count295
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count296
+\MPscratchDim=\dimen172
+\MPnumerator=\count297
+\makeMPintoPDFobject=\count298
+\everyMPtoPDFconversion=\toks22
+)
+\c@mv@tabular=\count299
+\c@mv@boldtabular=\count300
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 14.4pt on input line 33.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
+(Font)              scaled to size 14.4pt on input line 33.
+
+
+[1
+
+{/nix/store/5lkvak5xm36zmr5v781pwlpisz74izqw-texlive-combined-full-2025.2025070
+3/share/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/nix/store/h03408lmim0far
+29q4dddmwvar4g6mgj-texlive-combined-full-2025.20250703-texmfdist/fonts/enc/dvip
+s/newtx/ntx-ot1-tlf.enc}]
+
+[2]
+
+[3] (./Self Evaluation.aux)
+ ***********
+LaTeX2e <2025-06-01> patch level 1
+L3 programming layer <2020/03/25>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 3742 strings out of 467888
+ 65637 string characters out of 5405403
+ 474143 words of memory out of 5000000
+ 32271 multiletter control sequences out of 15000+600000
+ 631569 words of font info for 48 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 74i,5n,77p,1392b,117s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</nix/store/h03408lmim0far29q4dddmwvar4g6mgj-texlive-combined-full-2025.20250
+703-texmfdist/fonts/type1/public/newtx/ztmb.pfb></nix/store/h03408lmim0far29q4d
+ddmwvar4g6mgj-texlive-combined-full-2025.20250703-texmfdist/fonts/type1/public/
+newtx/ztmr.pfb>
+Output written on "Self Evaluation.pdf" (3 pages, 82281 bytes).
+PDF statistics:
+ 25 PDF objects out of 1000 (max. 8388607)
+ 15 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
