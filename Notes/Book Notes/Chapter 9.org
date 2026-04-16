@@ -1,0 +1,35 @@
+#+title: Chapter 9: Communication in Organizations
+
+* Key Features of Organizations
+** Structure
+It is a set of procedures, relationships and practices that exists between the members of an organization, an example of a type of structure is the hierarchical structure, which assigns different levels ranging in power and influence.
+
+** Communication Networks
+This terms describes the link, formal and informal that exists between people in regard to different topics or status in the organization, for example freshman students have a common network, parents in a workforce could also turn into a network.
+
+** Influence by external factors
+Organizations can be impacted by elements outside of their control like in the event of a crisis
+
+** Organizational Culture
+Consists on the ways of thinking, acting, and the behavior that exists between member interaction, it is also a reflection of an organization identity. It is similar to how ethnic cultures consists of meanings shared by members of a group.
+*** Vocabularies
+- Hierarchical Language
+  When language distinguishes the rank or status among members.
+- Masculine Language
+  When communication is expressed through words or phrases used predominately by man.
+
+*** Stories
+Recounts of the past about and organization or its members.
+
+- Corporate Stories
+  Convey the values, style, and history of an organization. They are effective are introducing new members into the culture of an organization.
+
+- Personal Stories
+  Stories that describe the account of members. How a member is valued by an organization.
+
+** Rites and Rituals
+*** Rites
+A planned set of activities that bring together aspects of an organization's culture in a single event.
+
+*** Rituals
+Forms of communication that occur regularly and that members of an organization perceive as familiar and routine parts of organizational life.

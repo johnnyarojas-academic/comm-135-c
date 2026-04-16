@@ -1,0 +1,32 @@
+#+TITLE: Chapter 11 Notes
+* The underlying question
+ * Because Young people are growing up connected to the digital world, they will be nimble, analytic thinkers who connect easily with others.
+ * Because today's young people are living in a hyper-connected world, full of digital content and interactions, they will be less able to think in depth and less skilled in face-to-face relationships than earlier generation were.
+
+** 11.1 Definition of Media
+Media is used as a broad term that encapsulates both mass media and social media, the book makes the distinction between the two.
+
+ * Mass Media
+   Delivery of one to many communication. Transmitting a message to a larger audience.
+
+ * Social Media
+   Is the means of interacting between people at a more personal level.
+
+The important difference between the two is the way they are *distributed*.
+ * *Distribution*: Mass media is distributed at a large scale while social media is shared with a much smaller audience
+ * *Production*: Mass media has a larger complex division of labor for its production, while social media is created by usually by a single individual.
+ * *Power*: Mass media have a one-way flow of information, on social media there is a prominent two-way flow of communication.
+ * *Content*: Media appeals to a broad audience, but social media tends to be more segmented to a particular topic.
+
+With this in note, is important to understand too that there is a blur sometimes the differences between social media and mass media.
+
+Therefore there exist a continuum between the two that ranges in
+
+Interpersonal \rightarrow Mass
+
+
+
+
+
+   
+

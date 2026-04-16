@@ -1,0 +1,153 @@
+\documentclass[12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{fancyhdr}
+\usepackage{mathptmx}
+\usepackage{enumitem}
+\usepackage[hyphens]{url}
+
+\geometry{
+  letterpaper,
+  margin=1in
+}
+
+\doublespacing{}
+
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{Rojas \thepage}
+\renewcommand{\headrulewidth}{0pt}
+
+\setlength{\parindent}{0pt}
+
+\begin{document}
+
+%----------------------------------------------------------------
+% Assignment Header
+%----------------------------------------------------------------
+\begin{center}
+  \textbf{Johnny A. Rojas}\\[2pt]
+  \textbf{Speech to Actuate}
+\end{center}
+
+\noindent\textbf{Course:} Public Speaking\\
+\noindent\textbf{Topic:} How to Find the Will to Overcome Failure\\
+\noindent\textbf{General Purpose:} To actuate\\
+\noindent\textbf{Specific Purpose:} To persuade my audience to place their trust in God as the primary source of strength when facing failure and discouragement.\\
+\noindent\textbf{AI Prompts Used:} \textit{I used Claude (Anthropic) throughout the creation of this speech. I began by asking Claude to research well-known psychological studies on failure and the life of Friedrich Nietzsche as a case study. I then provided my speech notes in Spanish, recorded via speech-to-text, and asked Claude to translate them into English while preserving my natural speaking voice. I asked Claude to identify what was missing from the assignment rubric and to restructure the content into a formal outline following the Chapter 14-1a format from the textbook. I also asked Claude to generate and correct APA referencesf or all sources used.}
+
+\bigskip
+
+%----------------------------------------------------------------
+% I. INTRODUCTION
+%----------------------------------------------------------------
+\noindent\textbf{I.\quad Introduction}
+
+\begin{enumerate}[label=\Alph*., leftmargin=1.5cm, itemsep=0pt]
+
+  \item \textbf{Attention:} Picture the last group speech now add two more presentations, 5--10 homeworks, church responsibilities, and a social life on top of a 16-credit semester.
+    \begin{enumerate}[label=\arabic*., leftmargin=1cm, itemsep=0pt]
+      \item According to SAU, 16 credits means 48 hours of study per week alone (Southern Adventist University, 2024).
+      \item After sleep, Sabbath, meals, and daily prep, a student may net only minutes of free time each day.
+    \end{enumerate}
+
+  \item \textbf{Credibility Statement:} I have personally experienced the weight of academic failure while navigating this same course load at SAU.
+
+  \item \textbf{Relevance:} Every person here has wondered at some point: how in the world can I find the will to overcome my own failure?
+
+  \item \textbf{Thesis:} The most solid foundation for overcoming failure is not our own understanding it is trust in a living God who holds our purpose before we were even born.
+
+  \item \textbf{Preview:} Today I will address the need created by failure, the satisfaction found in research and history, and a visualization of what anchoring yourself in God looks like in real life.
+
+\end{enumerate}
+
+\noindent\textit{Transition: Now that you see the load we are carrying, let me show you why failure under that load is not just possible it is certain.}
+
+\bigskip
+
+%----------------------------------------------------------------
+% II. BODY
+%----------------------------------------------------------------
+\noindent\textbf{II.\quad Body}
+
+\begin{enumerate}[label=\Alph*., leftmargin=1.5cm, itemsep=0pt]
+
+  \item Human error is one of the few certainties of life, and when it hits under a demanding course load, it can paralyze us.
+    \begin{enumerate}[label=\arabic*., leftmargin=1cm, itemsep=0pt]
+      \item We are not perfect machines mistakes happen even when we are passionate about what we are studying.
+      \item Repeated failure demotivates us and on some mornings makes it hard to get out of bed.
+      \item This raises the central question: how can I find the will to overcome my own failure?
+    \end{enumerate}
+
+  \noindent\textit{Transition: Two powerful sources point us toward an answer one scientific, one historical.}
+
+  \item Both the Harvard Study of Adult Development and the life of Friedrich Nietzsche show us that self-reliance alone breaks down under the weight of real trials.
+    \begin{enumerate}[label=\arabic*., leftmargin=1cm, itemsep=0pt]
+      \item The Harvard Study of Adult Development ongoing for more than 80 years found that people who prioritize relationships thrive more than those who prioritize only themselves (Waldinger \& Schulz, 2023).
+        \begin{enumerate}[label=\alph*., leftmargin=1cm, itemsep=0pt]
+          \item The study surveyed more than 500 participants across their entire adult lives.
+          \item Loneliness proved as damaging to long-term health as smoking or alcoholism.
+        \end{enumerate}
+      \item Friedrich Nietzsche built his entire philosophy on self-defined values after declaring ``God is dead,'' but his own life became a case study in the cost of that choice (Hussain, 2023).
+        \begin{enumerate}[label=\alph*., leftmargin=1cm, itemsep=0pt]
+          \item When more demanding trials arrived, Nietzsche could no longer sustain his framework from the inside out.
+          \item On January 3, 1889, he suffered a complete mental collapse in the streets of Turin, from which he never recovered, spending his final 11 years under the care of his family (Hussain, 2023).
+        \end{enumerate}
+      \item Together, these two sources point to the same conclusions.
+        \begin{enumerate}[label=\alph*., leftmargin=1cm, itemsep=0pt]
+          \item Trying to rationalize and defend everything on your own is one of the hardest things a person can attempt.
+          \item Depending on something beyond yourself others, and ultimately God is what makes growth and recovery possible.
+        \end{enumerate}
+    \end{enumerate}
+
+  \noindent\textit{Transition: So what does it actually look like to stop depending on your own understanding?}
+
+  \item Anchoring in God transforms how we face failure not by removing it, but by giving us a foundation that does not move.
+    \begin{enumerate}[label=\arabic*., leftmargin=1cm, itemsep=0pt]
+      \item The most important relationship to invest in is our relationship with God, whose understanding is not bound by our circumstances.
+      \item The next time you open the Bible, you find definition and direction through the Holy Spirit.
+      \item The next time you feel like crying, you have hope because the solution does not depend on your ability to hold yourself together.
+    \end{enumerate}
+
+\end{enumerate}
+
+\noindent\textit{Transition: Let me bring this together and leave you with something to act on.}
+
+\bigskip
+
+%----------------------------------------------------------------
+% III. CONCLUSION
+%----------------------------------------------------------------
+\noindent\textbf{III.\quad Conclusion}
+
+\begin{enumerate}[label=\Alph*., leftmargin=1.5cm, itemsep=0pt]
+
+  \item \textbf{Summary:} Failure is certain, self-reliance has a breaking point the Harvard study and Nietzsche both show us this and leaning on your own understanding alone is not enough.
+
+  \item \textbf{Reinforce Thesis:} The strongest source of will to overcome failure is trust in a God who does not break under any circumstance and who already knows the plans He has for your life.
+
+  \item \textbf{Final Appeal:} Proverbs 3:5 calls us to trust in the Lord with all our heart and not lean on our own understanding (New International Version), and Jeremiah 1:5 reminds us that before He formed us in the womb, He knew us (New International Version). My dear friend, let us put our trust in God, because one of the greatest burdens in life is not believing that you are following the correct path, and He will always have the correct path for you, even though we will go through the gutter sometimes.
+
+\end{enumerate}
+
+\newpage
+
+%----------------------------------------------------------------
+% REFERENCES
+%----------------------------------------------------------------
+\begin{center}
+  \textbf{References}
+\end{center}
+
+\setlength{\hangindent}{0.5in}
+
+\noindent Hussain, N. (2023). \textit{Friedrich Nietzsche}. Stanford Encyclopedia of Philosophy. \url{https://plato.stanford.edu/entries/nietzsche/}
+
+\medskip
+\noindent Southern Adventist University. (2024). \textit{Undergraduate handbook 2024--2025}. \url{https://www.southern.edu}
+
+\medskip
+\noindent Waldinger, R., \& Schulz, M. (2023). \textit{The good life: Lessons from the world's longest scientific study of happiness}. Simon \& Schuster.
+
+\end{document}

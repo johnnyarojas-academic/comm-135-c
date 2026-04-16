@@ -1,0 +1,88 @@
+#+title: 2026 03 23 Notes
+* Next Class Assigments
+** Wed, Mar 25
+*** TODO Read Ch. 7 for Wed :comm-135-c:
+DEADLINE: <2026-03-25 Wed 12:30>
+*** TODO Quiz Ch. 7: Comm. in Personal Relationhips :comm-135-c:
+DEADLINE: <2026-03-25 Wed 12:30>
+Due by Noon (30 mins before class begins)
+*** TODO Start thinking of Speech to Actuate topics: Toxicity in Our Lives :comm-135-c:
+DEADLINE: <2026-03-25 Wed 12:30>
+** Group Speech Schedule
+*** TODO Presentation Ch. 9: Comm in Organization :comm-135-c:
+DEADLINE: <2026-03-30 Mon 12:30>
+Additional Notes:
+
+Time Requirements
+- Minimum Time by Presenter: 2 and $\frac{1}{2}$ minutes
+- Maximum Time by Presenter 3 minutes
+
+Each presenter has to present *once*, Introduction can get for example 3 and $\frac{1}{2}$ minutes.
+
+Each presentor has to have *three diffirent sources*.
+
+* Persuasive Speeches (1)
+Persuasive speeches aim to change others by prompting them to change how they
+
+- Think
+- Feel
+- Believe
+- Act
+
+* Persuasive Speeches (2)
+* Qualities of Persuasive Speech
+- Transactional
+  A general idea, is a speech that communicates back and forth with the audiance
+
+- Artistic
+  It uses rethorical skills, in a non forceful or direct way to attract your audience
+
+- Gradual
+  We share information in a long term way, exploiting the way people remember
+
+* Three fundamental aspects of a speech
+** Ethos - Credibility
+** Pathos - Emotional Appeal
+** Logos - Reasoning
+#+BEGIN_COMMENT Could the explanations of what logic is just be explaining the way that we communicate rather than being necesary building blocks that we need to follow to the letter? Does every person already have the ability to comunicate, or at least a good base.
+#+END_COMMENT
+
+* Toulmin Model of Reasoning
+- Grounds
+  |
+  -> Your neighbour has two dogs
+  |
+  -> Dogs are anials that bark and howl
+  ...
+  Qualifier
+  So changes are..
+  ...
+  |
+  -> Claim: There are dogs nerby
+
+* Video, Example or Persuasive Speech
+** Intro
+- Proposes a value proposition
+- Has a Hook that relates to a general audience (sports)
+- Explains the context of olympic races so the audience feels familirized with the topic and the issue at hand.
+
+** Main Argument
+- Navigates the topic with the example, uses his framework of reasoning to the same example introduced.
+
+** 2nd Person
+- A stratigic placment of the second person when started talking abour roles.
+- Relates with audiance about the speakers current situation
+
+** 3rd Person
+
+* Monroe's Motivated Sequence
+Is a sequeme or an order for a persuasive speech, is effective because it was designed on human psychology.
+
+It is divided in five stages
+- Attention: It consists of four elements (Thesis, Hook, Credibility, Relevance) and before it continues to the next points it has a preview.
+- Need: Prof said it needs to provide an statement, an explanation and details
+- Satisfaction: It also has a statement
+- Visualization: Use examples to show the audience how your idea fixes the issue (Positive, Negative, Contrasting)
+- Call to Action
+
+  
